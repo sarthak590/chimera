@@ -1,0 +1,13 @@
+# Project Chimera - AI Doodle Recognition
+# Python 3.10 or newer (developed and tested on Python 3.13, macOS, Apple Silicon).
+torch>=2.2
+numpy>=1.26
+pillow>=10.0
+pandas>=2.0
+plotly>=5.18
+streamlit>=1.53
+streamlit-drawable-canvas[image]>=0.9.3
+requests>=2.31
+tqdm>=4.66
+scikit-learn>=1.4
+pytest>=8.0
